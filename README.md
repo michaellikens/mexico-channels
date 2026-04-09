@@ -1,8 +1,22 @@
-# mexico-channels
+# 🇲🇽 Mexico-Channels
 
-- Never change the .m3u file name or link will need to be changed as well.
+## 🧩 Overview
+A public **.m3u** file that I've created by gathering Mexican and American channels I've found from all over the web. All channels were found from public sources and could be removed at any point.
 
-- REFRESH URL:
-  Settings -> Playlists
-  Select your playlist
-  Click "Update"
+## 📺 Channel Count
+- Currently **68** channels.
+
+## 🔗 URL
+Add to the IPTV Player of your choice using the URL below.
+```text
+https://raw.githubusercontent.com/michaellikens/mexico-channels/refs/heads/main/mexico_feb09.m3u
+```
+
+## 🔄 Refresh URL on TiviMate
+- **Settings** -> **Playlists**
+- Select **current playlist**
+- Click **"Update"**
+- Restart **TiviMate**
+
+## 🚨 Note
+- Never change the **.m3u** filename when updating or previous URL will need to be changed for anyone using it.
